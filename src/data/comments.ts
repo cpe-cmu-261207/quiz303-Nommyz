@@ -10,20 +10,20 @@ export const comments: CommentType[] = [
   {
     username: 'Lisa',
     userImagePath: '/profileImages/lisa.jpg',
-    commentText: 'จริงค่า',
+    commentText: 'คือลือน่ะ',
     likeNum: 999,
     replies: [
       {
         username: 'หมาน้อย',
         userImagePath: '/profileImages/puppy.jpg',
-        commentText: 'จริงค้าบบบบบบบบ',
+        commentText: 'จัดมาดิ้',
         likeNum: 0,
         replies: []
       },
       {
         username: 'แมวตัวหนึ่ง',
         userImagePath: '/profileImages/popcat.png',
-        commentText: 'ลิซ่าาาาาาา',
+        commentText: 'แบบ เบิ้มๆ',
         likeNum: 2,
         replies: []
       }
@@ -32,7 +32,7 @@ export const comments: CommentType[] = [
   {
     username: 'Charlie Brown',
     userImagePath: '/profileImages/charliebrown.jpg',
-    commentText: 'บ้าไปแล้ว',
+    commentText: 'อยากสัมผัสต้นเฉาก๋วย',
     likeNum: 207,
     replies: []
   }
