@@ -13,17 +13,17 @@ function App() {
 
           {/* image and name */}
           <div className="flex space-x-2 items-center">
-            <img className="w-12 h-12 rounded-full" src="/profileImages/handsome.jpg"></img>
-            <span className='font-semibold text-lg'>Chayanin Suatap 610631100</span>
+            <img className="w-12 h-12 rounded-full" src="/profileImages/Rimsra.jpg"></img>
+            <span className='font-semibold text-lg'>Phumiphat Srikrachang 630610750</span>
           </div>
 
           {/* status message */}
-          <p>Quiz ง่ายจังเลยครับ ขอยาก ๆ กว่านี้ได้ไหม #261207</p>
+          <p>"ครับ สำหรับท่านที่เดินผ่านไปผ่านมา วันนี้เฉาก๊วยชากังราวได้มาบริการท่านพ่อแม่พี่น้องกันอีกแล้วนะครับ อากาศร้อนๆอย่างนี้นะครับ เฉาก๊วยสักถ้วยชื่นใจ แม้อากาศไม่ร้อนก็ทานกันได้นะครับ เฉาก๊วยชากังราวนั้นทานได้ทุกฤดูกาลนะครับ นอกจากเฉาก๊วยชากังราวจะอร่อยแล้ว ก็ยังมีประโยชน์ต่อร่างกายอีกมากมาย เช่น แก้ร้อนใน แก้ไข้หวัด ลดความดันโลหิตสูง แก้กล้ามเนื้ออักเสบ ข้ออักเสบ ตับอักเสบ แล้วก็เบาหวาน และสำหรับท่านที่ไม่เคยเห็นต้นเฉาก๊วย วันนี้โอกาสดีนะครับ เรามีต้นเฉาก๊วยมาให้พ่อแม่พี่น้องได้ดูได้ชมกันด้วยนะครับ โอกาศหน้าอย่าลืมนะครับ เฉาก๊วยชากังราวแท้ๆที่เราทำจากยางเฉาก๊วยจริงๆนะครับ"</p>
 
           {/* like section */}
           <div className='flex items-center'>
             <img className='w-4 h-4 mr-1' src='/like.svg'></img>
-            <p className='text-gray-500'>100 คน</p>
+            <p className='text-gray-500'>112 คน</p>
           </div>
 
         </div>
